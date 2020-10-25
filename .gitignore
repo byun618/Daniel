@@ -1,3 +1,4 @@
 /server/node_modules/
 /server/bin/db/db-config.json
 /server/bin/.env
+.DS_Store
